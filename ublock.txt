@@ -1,0 +1,5 @@
+[Adblock Plus 2.1]
+inoreader.com##div#sinner_container
+inoreader.com##div.ad_title
+inoreader.com##div.block_article_ad.leaderboard_ad
+
